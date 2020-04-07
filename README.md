@@ -2,7 +2,7 @@
 
 Social experiment.
 
-### Making good use of
+### Making good use of:
 - [CSS Gradient](https://cssgradient.io/)
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 - [Create React App](https://github.com/facebook/create-react-app)
