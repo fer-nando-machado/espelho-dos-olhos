@@ -57,7 +57,7 @@ const Purpose = ( props ) => {
         joseense <b>Advan Haschi</b>, usando apenas imagens capturadas em vídeo chamadas.
       </p>
       <p>
-        quer <b>fazer parte</b>? siga as instruções e compartilhe nas redes!</p>       
+        quer <b>fazer parte</b>? siga as instruções! divulgue o projeto em suas redes!</p>       
       <p>
         não temos pressa, então não vamos estabelecer uma <b>data limite</b> para os envios.
         vamos ir <b>costurando</b> os vídeos conforme forem chegando. atualizaremos
