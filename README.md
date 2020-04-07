@@ -1,6 +1,6 @@
 # no espelho dos olhos
 
-collaborative art experiment.
+Collaborative art experiment created on April, 2020.
 
 ### Making good use of:
 - [CSS Gradient](https://cssgradient.io/)
