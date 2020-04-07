@@ -38,7 +38,8 @@ function App() {
             quer <b>fazer parte</b>? siga as instruções! compartilhe em suas redes!</p>       
           <p>
             não temos pressa, então não vamos estabelecer uma <b>data limite</b> para os envios.
-            vamos ir <b>costurando</b> os vídeos conforme forem chegando.
+            vamos ir <b>costurando</b> os vídeos conforme forem chegando. atualizaremos
+            essa página quando o clipe estiver pronto.
           </p>
           <p>
             fique em casa e fique bem!
@@ -56,7 +57,8 @@ function App() {
                 Android</a>
             </li>
             <li>pense em uma <b>pessoa especial</b> com quem deseja dividir cerca de <b>3 minutos</b> em 
-            silêncio. é <b>fundamental</b> que ela esteja <b>ciente</b> de que a conversa será gravada.
+            silêncio. é <b>fundamental</b> que ela esteja <b>ciente</b> e <b>autorize</b> a 
+            gravação da conversa e o uso das imagens para composição de um vídeo clipe.
             </li>
             <li>inicie a <b>chamada de vídeo</b>, comece a <b>gravação da tela</b> e coloque  
               a <a rel="noopener noreferrer" className="Link" target="_blank" 
@@ -67,12 +69,13 @@ function App() {
             <li>sua <b>pessoa especial</b> também pode gravar a chamada do lado dela para nos enviar. 
               vai ser muito legal poder contar com experiências <b>multi-ângulo</b> ;)
             </li>
-            <li>por fim, envie as gravações para o email
-                <br/>➥ <a rel="noopener noreferrer" className="Link" target="_blank" 
+            <li>por fim, envie as <b>gravações</b> junto com seus <b>nomes</b> para o email <a rel="noopener noreferrer" className="Link" target="_blank" 
                 href="mailto:no.espelho.dos.olhos@gmail.com">no.espelho.dos.olhos@gmail.com</a>
-                <br/><br/>
-                assim que o vídeo ficar pronto, você vai receber o link por email para compartilhar 
-                com outras <b>pessoas especiais</b> da sua vida.
+            </li>
+             <li>
+                assim que o clipe estiver pronto, você vai receber 
+                um link do para compartilhar o resultado com 
+                outras <b>pessoas especiais</b> da sua vida.
             </li>
           </ol>
         </div>
