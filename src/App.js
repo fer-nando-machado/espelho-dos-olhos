@@ -52,16 +52,16 @@ const Purpose = ( props ) => {
         pensando na beleza das <b>emoções humanas</b> que 
         estão transitando pelas redes na forma de <b>zeros e uns</b>, 
         queremos propor um <b>experimento de arte social e colaborativa</b> 
-        com o propósito de <b>aquecer mais corações</b>: vamos construir um clipe 
+        com o propósito de <b>aquecer mais corações</b>: vamos construir um videoclipe 
         para a música <b>"Ao Deijar Fluir"</b>, do artista 
         joseense <b>Advan Haschi</b>, usando apenas imagens capturadas em vídeo chamadas.
       </p>
       <p>
         quer <b>fazer parte</b>? siga as instruções! divulgue o projeto em suas redes!</p>       
       <p>
-        não temos pressa, então não vamos estabelecer uma <b>data limite</b> para os envios.
-        vamos ir <b>costurando</b> os vídeos conforme forem chegando. atualizaremos
-        essa página quando o clipe estiver pronto.
+        não temos pressa e não vamos estabelecer uma <b>data limite</b> para os envios.
+        vamos ir <b>costurando</b> os vídeos conforme forem chegando e atualizaremos
+        essa página quando tivermos novidades.
       </p>
       <p>
         fique em casa e fique bem!
@@ -82,7 +82,7 @@ const Instructions = ( props ) => {
         </li>
         <li>pense em uma <b>pessoa especial</b> com quem deseja dividir cerca de <b>3 minutos</b> em 
         silêncio. é <b>fundamental</b> que ela esteja <b>ciente</b> e <b>autorize</b> a 
-        gravação da conversa e o uso das imagens para composição de um vídeo clipe.
+        gravação da conversa e o uso das imagens para composição de um videoclipe.
         </li>
         <li>inicie a <b>chamada de vídeo</b>, comece a <b>gravação da tela</b> e coloque  
           a <Link text="música" url="https://soundcloud.com/advanhaschi/ao-deijar-fluir-rouxinol"/> pra tocar. 
@@ -96,8 +96,8 @@ const Instructions = ( props ) => {
           email <Link text="no.espelho.dos.olhos@gmail.com" url="mailto:no.espelho.dos.olhos@gmail.com"/> 
         </li>
         <li>
-            assim que o clipe estiver pronto, você vai receber 
-            um link do para compartilhar o resultado com 
+            assim que o videoclipe estiver pronto, você vai receber 
+            um link para compartilhar o resultado com 
             outras <b>pessoas especiais</b> da sua vida.
         </li>
       </ol>
