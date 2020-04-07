@@ -14,12 +14,11 @@ function App() {
         <div className="Purpose">
           <p><b>planeta terra</b>, algum dia de abril de 2020</p>
           <p>
-          estamos vivendo um fenômeno inédito para as nossas gerações: 
-          uma pandemia global colocou uma pausa no ritmo acelerado da humanidade, 
-          nos fazendo questionar <b>o que nos move enquanto indivíduos</b> ao 
-          mesmo tempo que aprendemos <b>novas formas de caminhar em sociedade</b>.
+            estamos vivendo um fenômeno inédito para as nossas gerações: 
+            uma pandemia global colocou uma pausa no ritmo acelerado da humanidade, 
+            nos fazendo questionar <b>o que nos move enquanto indivíduos</b> ao 
+            mesmo tempo que aprendemos <b>novas formas de caminhar em sociedade</b>.
           </p>
-
           <p>
             em tempos de quarentena e distanciamento social, quando estamos 
             longe do carinho e do contato físico de quem a gente ama, 
@@ -27,26 +26,22 @@ function App() {
             promovendo <b>conexões</b> entre pessoas que estão distantes
             através de <b>chamadas de vídeo</b>.
           </p>
-
           <p>
             pensando na beleza das <b>emoções humanas</b> que 
             estão transitando pelas redes na forma de <b>zeros e uns</b>, 
-            queremos propor um <b>experimento social</b> para <b>aquecer mais corações</b>: 
+            queremos propor um <b>experimento de arte social</b> para <b>aquecer mais corações</b>: 
             produzir um clipe para <b>"Ao Deijar Fluir"</b>, do artista 
             joseense <b>Advan Haschi</b>, usando apenas imagens capturadas em vídeo chamadas.
           </p>
-
-          <p>quer <b>fazer parte</b>? siga as instruções na caixinha!</p>       
-
+          <p>
+            quer <b>fazer parte</b>? siga as instruções na caixinha!</p>       
           <p>
             não temos pressa, então não vamos estabelecer uma <b>data limite</b> para os envios.
             vamos ir <b>costurando</b> os vídeos conforme forem chegando.
           </p>
-
           <p>
             fique em casa e fique bem!
           </p>
-
         </div>
 
         <div className="Instructions">
@@ -86,7 +81,6 @@ function App() {
             src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309064171&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
         </iframe>
       </div>
-
 
       <footer className="Footer">
         feito com <span className="HeartIcon">♥</span> por <a rel="noopener noreferrer" className="Link"
