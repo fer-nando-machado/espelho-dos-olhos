@@ -29,12 +29,13 @@ function App() {
           <p>
             pensando na beleza das <b>emoções humanas</b> que 
             estão transitando pelas redes na forma de <b>zeros e uns</b>, 
-            queremos propor um <b>experimento de arte social</b> para <b>aquecer mais corações</b>: 
-            produzir um clipe para <b>"Ao Deijar Fluir"</b>, do artista 
+            queremos propor um <b>experimento de arte social e colaborativa</b> 
+            com o propósito de <b>aquecer mais corações</b>: vamos construir um clipe 
+            para a música <b>"Ao Deijar Fluir"</b>, do artista 
             joseense <b>Advan Haschi</b>, usando apenas imagens capturadas em vídeo chamadas.
           </p>
           <p>
-            quer <b>fazer parte</b>? siga as instruções na caixinha!</p>       
+            quer <b>fazer parte</b>? siga as instruções! compartilhe em suas redes!</p>       
           <p>
             não temos pressa, então não vamos estabelecer uma <b>data limite</b> para os envios.
             vamos ir <b>costurando</b> os vídeos conforme forem chegando.
@@ -54,18 +55,17 @@ function App() {
                 href="https://www.techtudo.com.br/dicas-e-tutoriais/2017/11/como-gravar-a-tela-do-celular-android-em-video.ghtml">
                 Android</a>
             </li>
-            <li>pense em uma <b>pessoa especial</b> com quem deseja dividir <b>3 minutos</b> em 
-            silêncio. é fundamental que ela esteja <b>ciente</b> de que a chamada será gravada.
+            <li>pense em uma <b>pessoa especial</b> com quem deseja dividir cerca de <b>3 minutos</b> em 
+            silêncio. é <b>fundamental</b> que ela esteja <b>ciente</b> de que a conversa será gravada.
             </li>
-            <li>inicie a <b>chamada de vídeo</b>, comece a <b>gravação da tela</b> e solte 
+            <li>inicie a <b>chamada de vídeo</b>, comece a <b>gravação da tela</b> e coloque  
               a <a rel="noopener noreferrer" className="Link" target="_blank" 
-              href="https://soundcloud.com/advanhaschi/ao-deijar-fluir-rouxinol">música</a>. 
-              tente apenas se conectar com o <b>olhar</b> de sua <b>pessoa especial</b> e
-              deixe a <b>emoção</b> rolar. você não precisa falar nada mas, se quiser, pode! 
+              href="https://soundcloud.com/advanhaschi/ao-deijar-fluir-rouxinol">música</a> pra tocar. 
+              tente se conectar apenas com o <b>olhar</b> de sua <b>pessoa especial</b> e
+              deixe a <b>emoção</b> rolar. você não precisa falar nada. mas, se quiser, pode! 
             </li>
-            <li>se sua <b>pessoa especial</b> quiser, ela também pode gravar a 
-              chamada do lado dela para nos enviar. 
-              vai ser muito legal poder ver as experiências <b>multi-ângulo</b> ;)
+            <li>sua <b>pessoa especial</b> também pode gravar a chamada do lado dela para nos enviar. 
+              vai ser muito legal poder contar com experiências <b>multi-ângulo</b> ;)
             </li>
             <li>por fim, envie as gravações para o email
                 <br/>➥ <a rel="noopener noreferrer" className="Link" target="_blank" 
