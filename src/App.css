@@ -1,38 +1,98 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Gotu', cursive;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Header {
+  background-image: url("haschi.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #e42f7a;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Title {
+  margin: 0;
+  padding: 0 2vw;
+  text-align: left;
+  font-size: calc(0.1em + 11vw);
+  line-height: 100%;
+  font-family: 'Gotu', cursive;
+  color: #FFFFFFDD;
+  text-shadow: 2px 2px #00000050;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Content {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: 2vw;
 }
 
-.App-link {
-  color: #61dafb;
+.Purpose {
+  width: 576px;
+  text-align: left;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Instructions {
+  width: 466px;
+  text-align: left;
+  padding: 20px;
+
+  /* https://9elements.github.io/fancy-border-radius */
+  border-radius: 94% 6% 94% 6% / 6% 94% 6% 94%  ;
+
+  /* https://cssgradient.io/ */
+  background: rgb(255,174,0);
+  background: linear-gradient(0deg, rgba(255,174,0,1) 10%, rgba(228,47,122,1) 100%);
+}
+
+.Instructions .Subtitle {
+  font-weight: bold;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.Instructions .Link {
+  color: #000000;
+  font-weight: bold;
+}
+
+.Instructions .Link:hover {
+  color: #FFFFFF;
+}
+
+.Song {
+  height: 100%;
+  width: 100%;
+  margin: 20px;
+}
+
+.Footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  padding: 4px 14px;
+  background-color: #e42f7a;
+  color: #ffffff;
+  font-size: smaller;
+}
+
+.Footer .Link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.Footer:hover .HeartIcon, 
+.Footer:hover .Link{
+  color: #ffae00;
+}
+ 
+.Footer:hover .Link{
+  text-decoration: underline;
 }
