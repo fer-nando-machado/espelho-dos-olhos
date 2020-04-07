@@ -27,6 +27,7 @@ const Content = ( props ) => {
       <Player 
         url="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309064171&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       />
+      <Lyrics />
     </div>
   )
 }
@@ -101,6 +102,28 @@ const Instructions = ( props ) => {
             outras <b>pessoas especiais</b> da sua vida.
         </li>
       </ol>
+    </div>
+  )
+}
+
+const Lyrics = ( props ) => {
+  return (
+    <div className="Lyrics">
+      <p className="Subtitle">"ao deijar fluir"</p>
+      <p>
+        ao deixar fluir o rio que em mim há<br/>
+        deságuo no mar com facilidade<br/>
+        não me engana<br/>
+        todo medo mora na ilusão
+      </p>
+      <p>
+        olha no espelho dos olhos pra reconhecer<br/>
+        que a gente não se parece<br/>
+        somos o mesmo ser<br/>
+        vivendo a mesma pele<br/>
+        o mesmo envelhecer<br/>
+        o mesmo brilho nos olhos
+      </p> 
     </div>
   )
 }

@@ -67,16 +67,26 @@ body, html {
 
 .Player {
   height: 100%;
-  width: 100%;
-  padding: 24px 0;
+  width: 90%;
+  padding-top: 24px;
+}
+
+.Lyrics {
+  color: #777777;
+  font-style: italic;
+}
+
+.Lyrics .Subtitle {
+  color: #777777;
+  font-style: normal;
+  font-weight: bold;
 }
 
 .Footer {
   position: fixed;
   bottom: 0px;
   width: 100%;
-  padding: 4px 14px;
-  height: 20px;
+  padding: 4px 0;
   background-color: #e42f7a;
   color: #ffffff;
   font-size: smaller;
