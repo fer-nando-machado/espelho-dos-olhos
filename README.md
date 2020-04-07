@@ -6,6 +6,7 @@ collaborative art experiment.
 - [CSS Gradient](https://cssgradient.io/)
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 - Eye favicon by [Freepik](https://www.flaticon.com/authors/freepik)
+- [Favicon.ico & App Icon Generator](https://www.favicon-generator.org/)
 - [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
