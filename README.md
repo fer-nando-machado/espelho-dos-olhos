@@ -1,6 +1,6 @@
 # no espelho dos olhos
 
-Social experiment.
+collaborative art experiment.
 
 ### Making good use of:
 - [CSS Gradient](https://cssgradient.io/)
