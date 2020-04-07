@@ -65,7 +65,7 @@ function App() {
             </li>
             <li>se sua <b>pessoa especial</b> quiser, ela também pode gravar a 
               chamada do lado dela para nos enviar. 
-              vai ser bem massa ter algumas experiências <b>multi-ângulo</b> ;)
+              vai ser muito legal poder ver as experiências <b>multi-ângulo</b> ;)
             </li>
             <li>por fim, envie as gravações para o email
                 <br/>➥ <a rel="noopener noreferrer" className="Link" target="_blank" 
@@ -84,7 +84,7 @@ function App() {
 
       <footer className="Footer">
         feito com <span className="HeartIcon">♥</span> por <a rel="noopener noreferrer" className="Link"
-         target="_blank" href="https://github.com/fernandomachado90/">Fernando Machado</a>
+         target="_blank" href="https://github.com/fernandomachado90/espelho-dos-olhos">Fernando Machado</a>
       </footer>
     </div>
   );
