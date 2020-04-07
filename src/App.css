@@ -43,10 +43,8 @@ body, html {
   width: 476px;
   text-align: left;
   padding: 20px;
-
   /* https://9elements.github.io/fancy-border-radius */
   border-radius: 94% 6% 94% 6% / 6% 94% 6% 94%  ;
-
   /* https://cssgradient.io/ */
   background: rgb(255,174,0);
   background: linear-gradient(0deg, rgba(255,174,0,1) 10%, rgba(228,47,122,1) 100%);
@@ -67,10 +65,10 @@ body, html {
   color: #FFFFFF;
 }
 
-.Song {
+.Player {
   height: 100%;
   width: 100%;
-  margin: 20px;
+  padding: 24px 0;
 }
 
 .Footer {
@@ -78,6 +76,7 @@ body, html {
   bottom: 0px;
   width: 100%;
   padding: 4px 14px;
+  height: 20px;
   background-color: #e42f7a;
   color: #ffffff;
   font-size: smaller;
