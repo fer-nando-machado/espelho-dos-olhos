@@ -52,8 +52,8 @@ const Purpose = ( props ) => {
       <p>
         pensando na beleza das <b>emoções humanas</b> que 
         estão transitando pelas redes na forma de <b>zeros e uns</b>, 
-        queremos propor um <b>experimento de arte social e colaborativa</b> 
-        com o propósito de <b>aquecer mais corações</b>: vamos construir um videoclipe 
+        queremos propor um <b>experimento de arte social e colaborativa</b> com 
+        o propósito de <b>aquecer mais corações</b>: vamos construir um videoclipe 
         para a música <b>"Ao Deijar Fluir"</b>, do artista 
         joseense <b>Advan Haschi</b>, usando apenas imagens capturadas em vídeo chamadas.
       </p>
