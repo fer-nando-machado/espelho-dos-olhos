@@ -45,8 +45,8 @@ const Purpose = ( props ) => {
       <p>
         em tempos de quarentena e distanciamento social, 
         a <b>tecnologia</b> aparece como uma grande <b>aliada</b>, 
-        promovendo <b>conexões</b> entre pessoas que estão distantes
-        através de <b>chamadas de vídeo</b>.
+        promovendo <b>conexões</b> e aproximando pessoas que 
+        estão distantes através de <b>chamadas de vídeo</b>.
       </p>
       <p>
         pensando na beleza das <b>emoções humanas</b> que 
@@ -121,7 +121,8 @@ const Lyrics = ( props ) => {
         todo medo mora na ilusão
       </p>
       <p>
-        olha no espelho dos olhos pra reconhecer<br/>
+        olha no espelho dos olhos<br/>
+        pra reconhecer<br/>
         que a gente não se parece<br/>
         somos o mesmo ser<br/>
         vivendo a mesma pele<br/>
