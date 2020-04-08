@@ -142,7 +142,9 @@ const Player = ( props ) => {
 const Footer = ( props ) => {
   return(
     <footer className="Footer">
-      feito com <span className="HeartIcon">♥</span> por <Link text={props.credits} url={props.url} /> 
+      feito com <span className="HeartIcon">♥</span> por <Link text="Advan Haschi" 
+      url="https://soundcloud.com/advanhaschi" /> e <Link text="Fernando Machado" 
+      url="https://github.com/fernandomachado90/espelho-dos-olhos" /> 
     </footer>
   )
 }
@@ -152,7 +154,7 @@ function App() {
     <div className="App">
       <Header/>
       <Content />
-      <Footer credits="Fernando Machado" url="https://github.com/fernandomachado90/espelho-dos-olhos" />
+      <Footer />
     </div>
   );
 }
