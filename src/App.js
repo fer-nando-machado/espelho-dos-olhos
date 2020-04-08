@@ -46,18 +46,18 @@ const Purpose = ( props ) => {
         em tempos de quarentena e distanciamento social, 
         a <b>tecnologia</b> aparece como uma grande <b>aliada</b>, 
         promovendo <b>conexões</b> e aproximando pessoas que 
-        estão distantes através de <b>chamadas de vídeo</b>.
+        estão afastadas através de <b>chamadas de vídeo</b>.
       </p>
       <p>
-        pensando na beleza das <b>emoções humanas</b> que 
-        transitam nesse instante pelas redes na forma de <b>zeros e uns</b>, 
+        pensando na quantidade e na qualidade das <b>emoções humanas</b> que 
+        transitam pelas redes na forma de <b>zeros e uns</b>, 
         propomos um <b>experimento de arte colaborativa</b> com 
-        o propósito de <b>aquecer</b> corações e <b>celebrar</b> a <b>importância 
-          das conexões</b> em tempos de isolamento.
+        o propósito de <b>aquecer</b> corações e <b>celebrar a importância 
+        das conexões</b> em tempos de isolamento.
         </p>
       <p>
-        vamos construir, juntos, um videoclipe 
-        para a música <b>"Ao Deijar Fluir"</b>, do 
+        vamos construir um videoclipe 
+        para a música <b>"Ao Deijar Fluir"</b>, do artista
         joseense <b>Advan Haschi</b>, usando apenas imagens de <b>vídeo chamadas</b>.
       </p>
       <p>
