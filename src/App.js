@@ -37,10 +37,10 @@ const Purpose = ( props ) => {
     <div className="Purpose">
       <p><b>planeta terra</b>, algum dia de abril de 2020</p>
       <p>
-        estamos vivendo um fenômeno inédito para as nossas gerações: 
+        estamos vivendo algo inédito para as nossas gerações: 
         uma pandemia global colocou uma pausa no ritmo acelerado da humanidade, 
         nos fazendo questionar <b>o que nos move enquanto indivíduos</b> ao 
-        mesmo passo que descobrimos <b>novas formas de caminhar juntos</b>.
+        mesmo passo que descobrimos <b>novas formas de caminhar em sociedade</b>.
       </p>
       <p>
         em tempos de quarentena e distanciamento social, 
@@ -84,9 +84,10 @@ const Instructions = ( props ) => {
             ➥ instruções: <Link text="iOS" url="https://support.apple.com/pt-br/HT207935"/> | <Link text="Android"
             url="https://www.techtudo.com.br/dicas-e-tutoriais/2017/11/como-gravar-a-tela-do-celular-android-em-video.ghtml" />
         </li>
-        <li>pense em uma <b>pessoa especial</b> com quem deseja dividir cerca de <b>3 minutos</b> em 
-        silêncio. é <b>fundamental</b> que ela esteja <b>ciente</b> e <b>autorize</b> a 
-        gravação da conversa e o uso das imagens para composição de um videoclipe.
+        <li>pense em uma <b>pessoa especial</b> com quem deseja dividir <b>3 minutinhos</b>. 
+        pode ser uma pessoa próxima ou alguém que você não vê há tempos, 
+        só é <b>fundamental</b> que ela esteja <b>ciente</b> e <b>autorize</b> a 
+        gravação da conversa e o uso das imagens para composição de um videoclipe. 
         </li>
         <li>inicie a <b>chamada de vídeo</b>, comece a <b>gravação da tela</b> e coloque  
           a <Link text="música" url="https://soundcloud.com/advanhaschi/ao-deijar-fluir-rouxinol"/> pra tocar. 
