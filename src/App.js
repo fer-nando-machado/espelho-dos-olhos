@@ -40,25 +40,28 @@ const Purpose = ( props ) => {
         estamos vivendo um fenômeno inédito para as nossas gerações: 
         uma pandemia global colocou uma pausa no ritmo acelerado da humanidade, 
         nos fazendo questionar <b>o que nos move enquanto indivíduos</b> ao 
-        mesmo tempo que aprendemos <b>novas formas de caminhar em sociedade</b>.
+        mesmo passo que descobrimos <b>novas formas de caminhar juntos</b>.
       </p>
       <p>
-        em tempos de quarentena e distanciamento social, quando estamos 
-        longe do carinho e do contato físico de quem a gente ama, 
-        a <b>tecnologia</b> aparece como uma <b>grande aliada</b>, 
+        em tempos de quarentena e distanciamento social, 
+        a <b>tecnologia</b> aparece como uma grande <b>aliada</b>, 
         promovendo <b>conexões</b> entre pessoas que estão distantes
         através de <b>chamadas de vídeo</b>.
       </p>
       <p>
         pensando na beleza das <b>emoções humanas</b> que 
-        estão transitando pelas redes na forma de <b>zeros e uns</b>, 
-        queremos propor um <b>experimento de arte social e colaborativa</b> com 
-        o propósito de <b>aquecer mais corações</b>: vamos construir um videoclipe 
-        para a música <b>"Ao Deijar Fluir"</b>, do artista 
-        joseense <b>Advan Haschi</b>, usando apenas imagens capturadas em vídeo chamadas.
+        transitam nesse instante pelas redes na forma de <b>zeros e uns</b>, 
+        propomos um <b>experimento de arte colaborativa</b> com 
+        o propósito de <b>aquecer</b> corações e <b>celebrar</b> a <b>importância 
+          das conexões</b> em tempos de isolamento.
+        </p>
+      <p>
+        vamos construir, juntos, um videoclipe 
+        para a música <b>"Ao Deijar Fluir"</b>, do 
+        joseense <b>Advan Haschi</b>, usando apenas imagens de <b>vídeo chamadas</b>.
       </p>
       <p>
-        quer <b>fazer parte</b>? siga as instruções! divulgue o projeto em suas redes!</p>       
+        quer <b>fazer parte</b>? siga as instruções! se puder, divulgue em suas redes!</p>       
       <p>
         não temos pressa e não vamos estabelecer uma <b>data limite</b> para os envios.
         vamos ir <b>costurando</b> os vídeos conforme forem chegando e atualizaremos
