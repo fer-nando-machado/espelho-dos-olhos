@@ -20,7 +20,7 @@ body, html {
   margin: 0;
   padding: 0 2vw;
   text-align: left;
-  font-size: calc(0.1em + 11vw);
+  font-size: calc(0.1em + 10vw);
   line-height: 100%;
   font-family: 'Gotu', cursive;
   color: #FFFFFFDD;
